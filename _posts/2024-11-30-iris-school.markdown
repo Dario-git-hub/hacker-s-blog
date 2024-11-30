@@ -8,7 +8,7 @@ categories: chromebook exploit
 iRiS School es una extensión muy molesta que nos instaló nuestra escuela en los chromebooks escolares, haciéndolos más lentos, la batería se gasta más rápido, nos bloqueaba webs necesarias para trabajar...etc.
 Además, tiene demasiados permisos
 
-![Los exagerados permisos de la extensión iRiS School](iris-school.png)
+![Los exagerados permisos de la extensión iRiS School](/docs/iris-school.png)
 
 Una semana después de que nos instalaran tremenda mierda descubrí un repositorio que se llama [rigtools](https://github.com/Sincereham222/rigtools-newui) que funciona desde la versión de chromeOS 124 hasta la 129. Lo que hacía era: aprovechándose de [websockets de javascript](https://es.javascript.info/websocket), ejecutaba código como una extensión privilegiada. Lo cuál servía para desactivar la extensión de iRiS. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brickeé mi móvil"
-date: 2024-11-31 05:20:40 +0000 
+date: 2024-11-31 05:20:40 +0000
 categories: linux ios raspberrypi
 ---
 

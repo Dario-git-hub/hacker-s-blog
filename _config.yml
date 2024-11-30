@@ -8,9 +8,10 @@ twitter_username: no-tengo-twitter
 github_username:  Dario-git-hub
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/hacker@latest
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

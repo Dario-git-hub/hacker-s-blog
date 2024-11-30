@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POST-TITLE"
+title: "iRiS School"
 date: 2024-11-30 02:01:59 +0000 
 categories: chromebook exploit
 ---

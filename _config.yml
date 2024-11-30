@@ -2,14 +2,13 @@ title: Hacker's blog
 email: https://temp-mail.org
 description: >- # Ni lo toques
   Esto es el Hacker's blog, aquí iré subiendo cosas y problemas sobre hacking (junto con la solución que le he dado yo) y un poco de programación para que la gente aprenda.
-baseurl: "hacker-s-blog/" 
+baseurl: "h/acker-s-blog/" 
 url: "https://dario-git-hub.github.io/" 
 twitter_username: no-tengo-twitter
 github_username:  Dario-git-hub
 
 # Build settings
 theme: minima
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

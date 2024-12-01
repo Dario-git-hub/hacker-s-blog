@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Openshot"
-date: 2024-12-1 14:06:00 +0000 
+date: 2024-12-1 01:06:00 +0000 
 categories: chromebook exploit
 ---
  

@@ -2,7 +2,7 @@
 layout: post
 title: "iRiS School"
 date: 2024-11-30 02:01:59 +0000 
-categories: chromebook exploit
+categories: chromebook extensión exploit 
 ---
 
 iRiS School es una extensión muy molesta que nos instaló nuestra escuela en los chromebooks escolares, haciéndolos más lentos, la batería se gasta más rápido, nos bloqueaba webs necesarias para trabajar...etc.

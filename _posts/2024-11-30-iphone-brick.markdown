@@ -12,3 +12,4 @@ Mi setup consiste en un raspberry pi 4 con kali linux y ya. El caso es que hice 
 Lo que se me ocurrió fue buscar por google el firmware original. Lo encontré y lo dejé flasheando mientras comía. Cuando volví de comer, vi la pantalla de bloqueo y me alegré. Por si la queréis, aquí tenéis [la web para los firmware](https://ipsw.me/). 
 
 Que conste que ya se que el de la foto es el xs y yo tengo el 7, pero es el único que se veía bien.
+{% include welcomments/comments.html website_id = "xFWU7xPtPstabNkuqx8RPIq8a" %}

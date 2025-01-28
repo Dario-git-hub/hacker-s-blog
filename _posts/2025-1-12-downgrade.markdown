@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo nos saltamos las restricciones de nuestro colegio (parte 2)"
 date: 2025-1-12 6:14:00 +0000 
-categories: chromebook bookmarklets
+categories: web chromebook bookmarklets
 ---
 
 Hace un tiempo, nuestro colegio nos desactivo inspeccionar y las urls con el prefijos `javascript:` y `javascript://`, también conocido como bookmarklets. Esos códigos se ponían en los marcadores y si los pulsabas, podían modificar el comportamiento de la página web en la que estuvieses. Que nos desactivaran eso no nos importara mucho, pero que nos desactivara inpeccionar, si que nos afectaba ya que nos quito la posibilidad de desactivar iRiS. 

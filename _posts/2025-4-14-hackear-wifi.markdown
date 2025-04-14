@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo hackear wifis"
-date: 2025-4-15 1:04:00 +0000 
+date: 2025-4-14 1:04:00 +0000 
 categories: hacking wifi linux macos
 --- 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "iRiS School"
-date: 2024-11-30 02:01:59 +0000 
+title: "Como desactivar iRiS"
+date: 2025-4-17 04:00:00 +0000 
 categories: chromebook extensión exploit 
 ---
 

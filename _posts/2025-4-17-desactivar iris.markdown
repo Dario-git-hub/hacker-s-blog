@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como desactivar iRiS"
+title: "Como desactivar extensiones instaladas forzadamente"
 date: 2025-4-17 04:00:00 +0000 
 categories: chromebook extensión exploit 
 ---
